@@ -1,4 +1,4 @@
-# 🚀 YOUR_NAME  
+# 🚀 KRUTHAN
 
 <div align="center">
 
@@ -34,7 +34,7 @@
 
 ---
 
-## 🎯 About Me
+## 🎯 As a Python development and DBMS enthusiast, I aim to apply my skills to real-world problems, contributing to organizational success and driving business growth. I am excited to collaborate, continuously learn, and deliver high-quality results, driving business impact and staying updated with industry trends.
 
 YOUR_SHORT_INTRODUCTION_PARAGRAPH
 
@@ -47,7 +47,7 @@ Love building efficient applications and exploring AI/ML integration.
 ## 🛠️ Tech Stack & Skills
 
 ### 🔥 Programming Languages
-* Language 1  
+* Python
 * Language 2  
 * Language 3  
 
@@ -59,18 +59,17 @@ Love building efficient applications and exploring AI/ML integration.
 ### 💅 Frontend
 * React / Vue / Angular  
 * HTML / CSS  
-* Tailwind / Bootstrap  
+  
 
 ### 🗄️ Databases
-* PostgreSQL  
+
 * MySQL  
-* MongoDB  
+   
 
 ### ⚙️ DevOps & Tools
 * Git  
-* Docker  
-* AWS  
-* Linux  
+
+ 
 
 ---
 
@@ -134,8 +133,8 @@ I’m open to working on:
 
 ## 📬 Connect With Me
 
-📧 Email: YOUR_EMAIL  
-🔗 LinkedIn: YOUR_LINKEDIN_URL  
+📧 Email: kruthangowda183@gmail.com  
+🔗 LinkedIn: YOUR_LINKEDIN_URL
 🌐 Portfolio: YOUR_PORTFOLIO_URL  
 
 ---
