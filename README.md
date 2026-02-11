@@ -3,7 +3,7 @@
 <div align="center">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=1000&color=F875AA&center=true&vCenter=true&width=700&lines=✨+YOUR_NAME;💻+YOUR_ROLE;🚀+YOUR_SPECIALIZATION;🌟+Open+to+Collaborations!;🎯+YOUR_TAGLINE" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=1000&color=F875AA&center=true&vCenter=true&width=700&lines=✨;💻+YOUR_ROLE;🚀PYTHON FULLSTACK DEVELOPER;🌟+Open+to+Collaborations!;🎯+YOUR_TAGLINE" />
 </h1>
 
 <div align="center">
@@ -48,13 +48,11 @@ Love building efficient applications and exploring AI/ML integration.
 
 ### 🔥 Programming Languages
 * Python
-* Language 2  
-* Language 3  
+  
 
 ### 🚀 Backend
-* Framework 1  
-* Framework 2  
-* Framework 3  
+* DJANGO 
+ 
 
 ### 💅 Frontend
 * React / Vue / Angular  
@@ -97,10 +95,11 @@ Love building efficient applications and exploring AI/ML integration.
 
 ## 🏆 Featured Projects
 
-### 🔹 PROJECT_NAME_1
-*Description:* Short description of your project.  
-*Tech Stack:* Tech1, Tech2, Tech3  
-*GitHub:* https://github.com/YOUR_GITHUB_USERNAME/PROJECT_REPO  
+### 🔹 	Eye Tracking Cursor Control:
+
+•	Utilizes OpenCV, PyAutoGUI and Deep Learning for hands-free computer interaction.
+•	Tailored for individuals with physical disabilities, using webcam and Flask for accessibility and ease of use.
+•	Delivers precise cursor navigation and click simulation through real-time eye-tracking and gesture detection.
 
 ---
 
